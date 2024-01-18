@@ -1,4 +1,4 @@
-# Announcement: hOn project WIL NOT BE TAKEN DOWN by greedy suckers at Haier.
+# Announcement: hOn project WILL NOT BE TAKEN DOWN by greedy suckers at Haier.
 Feel free to use any part of the code to use in your fork and continue developing the independent software.
 
 Here's what it looked like in the original developer Github:
