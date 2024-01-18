@@ -1,4 +1,9 @@
-# Announcement: I have to take the project down in the next few days
+# Announcement: hOn project WIL NOT BE TAKEN DOWN by greedy suckers at Haier.
+Feel free to use any part of the code to use in your fork and continue developing the independent software.
+
+Here's what it looked like in the original developer Github:
+
+>I have to take the project down in the next few days
 > Dear User,
 > 
 > We are writing to inform you that we have discovered two Home Assistant integration plug-ins developed by you ( https://github.com/Andre0512/hon and https://github.com/Andre0512/pyhOn ) that are in violation of our terms of service. Specifically, the plug-ins are using our services in an unauthorized manner which is causing significant economic harm to our Company.
